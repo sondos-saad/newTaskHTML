@@ -1,0 +1,16 @@
+*{
+    background-color: rgb(197 191 147);
+}
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap:1rem;
+}
+.left{
+    width: 50%;
+    padding: 0 1rem;
+}
+.right{
+    width: 40%;
+}
